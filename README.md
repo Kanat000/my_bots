@@ -8,3 +8,5 @@ Have 2 roles:
 Bot specialized for mailing in social media LinkedIn. Bot take all information from users by question-answer model, collect they in one json file and send to online robots of company robotize.pro . 
 ## -- Nickname Tracker Bot (https://github.com/Kanat000/TrackerBot)
 Bot created as a parsing telegram website. User inputs nicknames that he/she wants to take. Bot checks nickname in website of telegram that free or not. Then if free bot will send message nickname already free. If not bot will save nickname in db and send request to website in some time to know nickname status.
+## -- Moodle bot(https://github.com/Kanat000/Moodle_bot)
+Bot created as parser Astana It Moodle website. Student can take information about marks, attendance and deadlines of lesson by telegram app. It is easier and faster then using moodle website by phone. 
